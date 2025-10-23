@@ -1,0 +1,74 @@
+[
+{
+  "timestamp": "2025-10-23T01:40:11.697Z",
+  "status": "success",
+  "productId": 108059,
+  "productName": "60mg Blueberry 7-OH Tablets - Our first 60mg Tablet on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  }
+},
+{
+  "timestamp": "2025-10-23T01:40:19.913Z",
+  "status": "success",
+  "productId": 107995,
+  "productName": "7-OH Tablets - The 40mg Bubble Gum Tablets - A delicious new flavor from our original supplier on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "8",
+      "width": "5",
+      "height": "1"
+    }
+  }
+},
+{
+  "timestamp": "2025-10-23T01:40:31.143Z",
+  "status": "success",
+  "productId": 107930,
+  "productName": "Pseudoindoxyl 15mg Cherry Tablets - A Kratom Distro Exclusive on sale now!!! (Compare to Press'd Red or Hydroxie)",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  }
+}
+]

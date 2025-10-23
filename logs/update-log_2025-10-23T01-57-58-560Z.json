@@ -1,0 +1,4902 @@
+[
+{
+  "timestamp": "2025-10-23T01:58:15.285Z",
+  "status": "success",
+  "productId": 95510,
+  "productName": "7-OH Tablets - The 40mg Mango Tablets - Our first 40mg tablet from our newest supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds the 10 lb threshold, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T01:58:25.991Z",
+  "status": "success",
+  "productId": 95224,
+  "productName": "90% 7-OH pure no MIT!!! 7-OH Extract Powder - Mac n Cheese V.10",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This 7-OH extract powder product weighs 35 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with dimensions 16×12×8 inches for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T01:58:36.268Z",
+  "status": "success",
+  "productId": 94850,
+  "productName": "33mg Black Cherry 7-OH Tablets - An amazing flavor from our new supplier!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. The dimensions correspond to the large shipping box size for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T01:58:48.006Z",
+  "status": "success",
+  "productId": 94786,
+  "productName": "33mg Grape 7-OH Tablets - May restock from our newest supplier!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but weighs 35 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T01:58:57.375Z",
+  "status": "success",
+  "productId": 94264,
+  "productName": "7-OH Tablets restock! The 20mg Sweet Tarts - A Kratom Distro Exclusive!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds the 10 lb threshold, requiring Extra Large Box classification with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T01:59:04.312Z",
+  "status": "success",
+  "productId": 94020,
+  "productName": "Shorebreak kava and kratom beverage.  A killer price on an amazing drink!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.5",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a beverage product weighing 1.5 lbs, which falls in the 0.5-2 lbs range requiring a Medium Box. The dimensions 8×6×3 inches are standard for this weight class."
+},
+{
+  "timestamp": "2025-10-23T01:59:11.501Z",
+  "status": "success",
+  "productId": 94019,
+  "productName": "Gem Botanicals Kava/Kratom/7-OH Beverage!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a 2oz beverage shot weighing 1 lb, which falls in the 0.5-2 lb range requiring a Medium Box. The liquid format and weight justify box packaging rather than envelope."
+},
+{
+  "timestamp": "2025-10-23T01:59:20.974Z",
+  "status": "success",
+  "productId": 93955,
+  "productName": "25ers!  20mg 7-OH/5mg Pseudo Tablets - Mango flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T01:59:30.798Z",
+  "status": "success",
+  "productId": 93788,
+  "productName": "22mg Fruity Pebbles Tablets - A new flavor idea from our newest supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but weighs 35 lbs, which exceeds the 10 lb threshold for Large Box and requires Extra Large Box packaging."
+},
+{
+  "timestamp": "2025-10-23T01:59:37.851Z",
+  "status": "success",
+  "productId": 91846,
+  "productName": "White Sands Salt Base 75% Mitragynine 0% 7-OH Extract Powder! - A new product we are introducing today!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a potent extract powder available in small sizes (5g-25g), weighing under 0.5 lbs, so it fits in a small padded envelope. Default weight of 0.2 lbs applied since weight was missing."
+},
+{
+  "timestamp": "2025-10-23T01:59:45.632Z",
+  "status": "success",
+  "productId": 91840,
+  "productName": "White Magic Extract Powder (63% Mitragynine 92% total alkaloids) - The most potent free base MIT extract we carry!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a potent extract powder available in small sizes (5g, 10g, 25g) with no weight provided, so defaulted to 0.2 lbs. Extract products typically use small packaging, fitting the Small Envelope class for lightweight items under 0.5 lbs."
+},
+{
+  "timestamp": "2025-10-23T01:59:55.932Z",
+  "status": "success",
+  "productId": 91773,
+  "productName": "7-OH Tablets - The 45mg Grape Batch!!! - A new delicious flavor from our original supplier!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. Using standard dimensions for packages over 10 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:00:05.922Z",
+  "status": "success",
+  "productId": 91707,
+  "productName": "7-OH Tablets - The 45mg Sweet Tarts July Batch original recipe!!! - A Kratom Distro Exclusive!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:00:18.145Z",
+  "status": "success",
+  "productId": 91612,
+  "productName": "7-OH Tablets - The 50mg Green Apple Flavor - A delicious new flavor from our first supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. Using conservative dimensions for a large shipping box to accommodate the significant weight."
+},
+{
+  "timestamp": "2025-10-23T02:00:28.385Z",
+  "status": "success",
+  "productId": 91450,
+  "productName": "7-OH Tablets - The 50mg Tropical Flavor - A Kratom Distro Exclusive and our third 50mg tablet!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with dimensions 16x12x8 inches for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:00:39.011Z",
+  "status": "success",
+  "productId": 91373,
+  "productName": "7-OH Tablets - The 30mg Sweet Tarts July Batch original recipe!!! - A Kratom Distro Exclusive!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. Using standard dimensions for packages over 10 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:00:49.725Z",
+  "status": "success",
+  "productId": 90688,
+  "productName": "33mg Blue Raspberry 7-OH Tablets - July restock!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:00:59.831Z",
+  "status": "success",
+  "productId": 90296,
+  "productName": "7-OH Dissolving Strip - July restock! 20mg Strip in a Delicious Mint Flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a 7-OH dissolving strip product, which is a lightweight tablet/extract format that weighs under 0.5 lbs and fits in a small padded envelope."
+},
+{
+  "timestamp": "2025-10-23T02:01:10.292Z",
+  "status": "success",
+  "productId": 90288,
+  "productName": "7-OH Tablets 30mg 100ct pack at an amazing price!!!  Assorted flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "4",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a tablet product that weighs 4 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:01:21.595Z",
+  "status": "success",
+  "productId": 90287,
+  "productName": "7-OH Tablets 40mg 100ct pack of assorted flavors at an amazing price!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a tablet product weighing 2 lbs, which falls within the 2-10 lbs range requiring a Large Box with dimensions 12x9x5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:01:32.252Z",
+  "status": "success",
+  "productId": 90220,
+  "productName": "7-OH Tablets - The 40mg Sprite Tablets - A delicious new flavor from our original supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but weighs 35 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box classification with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:01:42.260Z",
+  "status": "success",
+  "productId": 88987,
+  "productName": "7-OH Tablets - The 40mg Cinnamon Tablets - A delicious new flavor from our original supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:01:53.062Z",
+  "status": "success",
+  "productId": 88923,
+  "productName": "7-OH Tablets - The 40mg Watermelon Tablets - A delicious new flavor from our original supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:02:05.870Z",
+  "status": "success",
+  "productId": 88266,
+  "productName": "20-20s!  20mg Full Spectrum 7-OH and MIT Blue Raspberry Tablets - Extremely Potent Feel!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product that weighs 35 lbs, which exceeds the 10 lb threshold for Large Box classification, requiring Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:02:16.806Z",
+  "status": "success",
+  "productId": 88250,
+  "productName": "62% 7-OH / 0% MIT / 2.4% Pseudo!!! 7-OH Extract Powder - Mini Mac n Cheese!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This 7-OH extract powder product has a weight of 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy powder products."
+},
+{
+  "timestamp": "2025-10-23T02:02:27.764Z",
+  "status": "success",
+  "productId": 87383,
+  "productName": "7-OH Tablets - The 30mg Watermelon Tablets!!! A new flavor from our newest supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight is 35 lbs, which exceeds 10 lbs and requires Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:02:39.158Z",
+  "status": "success",
+  "productId": 87135,
+  "productName": "63% 7-OH 4% MIT full spectrum 7-OH Extract Powder restock!!! - Apricot",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35lb powder extract product that exceeds 10lbs, requiring the Extra Large Box shipping class with dimensions suitable for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:02:49.493Z",
+  "status": "success",
+  "productId": 86704,
+  "productName": "7-OH Tablets - The 20mg Winterberry June Restock!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:03:00.014Z",
+  "status": "success",
+  "productId": 86362,
+  "productName": "7-OH Tablets - The 30mg Creamsicle Tablets!!! May restock of one of our best flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy tablet packaging."
+},
+{
+  "timestamp": "2025-10-23T02:03:10.429Z",
+  "status": "success",
+  "productId": 86062,
+  "productName": "7-OH Tablets - The 15mg Assorted Pack.  Crazy shapes and unreleased flavors!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 7-OH tablets but weight is 35 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box classification with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:03:20.045Z",
+  "status": "success",
+  "productId": 85998,
+  "productName": "7-OH Tablets - The 15mg Strawberry Milkshake Tablets!!! A new flavor we are introducing today!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:03:30.605Z",
+  "status": "success",
+  "productId": 85934,
+  "productName": "7-OH Tablets - The 30mg Strawberry Milkshake Tablets!!! A new flavor we are introducing today!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. Using standard dimensions for packages over 10 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:03:41.898Z",
+  "status": "success",
+  "productId": 85592,
+  "productName": "7-OH Tablets - The 50mg Tropical Flavor - A Kratom Distro Exclusive and our third 50mg tablet!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring Extra Large Box classification with dimensions 16×12×8 inches for heavy shipments."
+},
+{
+  "timestamp": "2025-10-23T02:03:54.319Z",
+  "status": "success",
+  "productId": 84121,
+  "productName": "22mg Fruity Pebbles Tablets - A new flavor idea from our newest supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but weighs 35 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box classification with corresponding dimensions for heavy shipments."
+},
+{
+  "timestamp": "2025-10-23T02:04:05.805Z",
+  "status": "success",
+  "productId": 84057,
+  "productName": "20mg Mai Thai Cocktail 7-OH Tablets - A new flavor we are introducing today!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. The dimensions correspond to a large shipping box suitable for heavy tablet containers."
+},
+{
+  "timestamp": "2025-10-23T02:04:16.482Z",
+  "status": "success",
+  "productId": 83978,
+  "productName": "35ers!  30mg 7-OH/5mg Pseudo Tablets - Watermelon flavor! A brand new product we are introducing today!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight is 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:04:27.346Z",
+  "status": "success",
+  "productId": 83914,
+  "productName": "7-OH Tablets - The 40mg Mango Tablets - Our first 40mg tablet from our newest supplier!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with dimensions 16x12x8 inches to accommodate the substantial weight."
+},
+{
+  "timestamp": "2025-10-23T02:04:37.419Z",
+  "status": "success",
+  "productId": 82604,
+  "productName": "25ers!  20mg 7-OH/5mg Pseudo Tablets - Blue Raspberry flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:04:47.531Z",
+  "status": "success",
+  "productId": 82539,
+  "productName": "Pseudoindoxyl 20mg Dissolving Strip!!! - A Kratom Distro Exclusive product in a delicious chocolate mint flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH dissolving strip product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:04:57.287Z",
+  "status": "success",
+  "productId": 82538,
+  "productName": "7-OH Tablets 20mg 100ct pack at an amazing price!!!  Assorted flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a tablet product weighing 2 lbs, which falls within the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:05:07.120Z",
+  "status": "success",
+  "productId": 82535,
+  "productName": "7-OH Tablets 30mg 100ct pack at an amazing price!!!  Assorted flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "4",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a tablet product weighing 4 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:05:17.863Z",
+  "status": "success",
+  "productId": 82335,
+  "productName": "7-OH Tablets - The 40mg Sweet Tarts - Restock of the original color and recipe!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy tablet packaging."
+},
+{
+  "timestamp": "2025-10-23T02:05:27.612Z",
+  "status": "success",
+  "productId": 82266,
+  "productName": "20mg Mint Chips 7-OH Tablets - May restock!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:05:38.542Z",
+  "status": "success",
+  "productId": 81824,
+  "productName": "7-OH Tablets - The 40mg Green Apple Tablets!!! A new flavor we are introducing today!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a tablet product that weighs under 0.5 lbs, so it qualifies for Small Envelope shipping with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:05:48.283Z",
+  "status": "success",
+  "productId": 81758,
+  "productName": "7-OH Tablets - The 20mg Piña Colada Tablets!!! A new flavor we are introducing today!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:05:58.674Z",
+  "status": "success",
+  "productId": 81625,
+  "productName": "79% 7-OH/4% Pseudo/7% MIT full spectrum!!! 7-OH Extract Powder promotional price from a new supplier!!! - Cocoa Shimmer!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH extract powder product weighing 35 lbs, which exceeds 10 lbs and requires an extra large box for shipping."
+},
+{
+  "timestamp": "2025-10-23T02:06:08.746Z",
+  "status": "success",
+  "productId": 80191,
+  "productName": "20mg Lemon Drops 7-OH Tablets - The 20mg Lemon Drops April batch Restock!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. Using standard large box dimensions for heavy tablet shipments."
+},
+{
+  "timestamp": "2025-10-23T02:06:19.568Z",
+  "status": "success",
+  "productId": 79871,
+  "productName": "75.2% 7-OH pure no MIT!!! \"Brown Sugar\" V. 6 restock!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a dense extract powder product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification, requiring the largest shipping container dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:06:30.529Z",
+  "status": "success",
+  "productId": 79804,
+  "productName": "Pseudoindoxyl 20mg Dissolving Strip!!! - A Kratom Distro Exclusive product in a delicious strawberry flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH dissolving strip product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification due to bulk packaging options."
+},
+{
+  "timestamp": "2025-10-23T02:06:40.562Z",
+  "status": "success",
+  "productId": 79739,
+  "productName": "Pseudoindoxyl 20mg Dissolving Strip!!! - A Kratom Distro Exclusive product in a delicious chocolate mint flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH dissolving strip product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:06:51.596Z",
+  "status": "success",
+  "productId": 79143,
+  "productName": "7-OH Tablets - The 40mg Lemon Drops - A Kratom Distro Exclusive May restock!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. Using standard large box dimensions for heavy tablet shipments."
+},
+{
+  "timestamp": "2025-10-23T02:07:01.165Z",
+  "status": "success",
+  "productId": 78967,
+  "productName": "20mg Watermelon 7-OH Tablets - May restock!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:07:11.592Z",
+  "status": "success",
+  "productId": 78875,
+  "productName": "20mg 7-OH Tablets - Hot Chocolate flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:07:23.900Z",
+  "status": "success",
+  "productId": 78679,
+  "productName": "Pseudoindoxyl 15mg Watermelon Tablets - A Kratom Distro Exclusive!!! (Compare to Press'd Red or Hydroxie)",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:07:34.788Z",
+  "status": "success",
+  "productId": 78663,
+  "productName": "86% 7-OH!!! 7-OH Extract Powder promotional price from a new supplier!!! - Tangerine Shimmer!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This 7-OH extract powder product weighs 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. The dimensions correspond to a large shipping box suitable for heavy powder products."
+},
+{
+  "timestamp": "2025-10-23T02:07:45.890Z",
+  "status": "success",
+  "productId": 78253,
+  "productName": "20-20s!  20mg Full Spectrum 7-OH and MIT Tablets - Extremely Potent Feel!  Strawberry Limeade flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product that weighs 35 lbs, which exceeds the 10 lb threshold for Large Box classification, requiring Extra Large Box dimensions of 16x12x8 inches."
+},
+{
+  "timestamp": "2025-10-23T02:07:57.008Z",
+  "status": "success",
+  "productId": 78189,
+  "productName": "33mg Black Cherry 7-OH Tablets - An amazing flavor from our new supplier!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but weighs 35 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box classification with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:08:08.776Z",
+  "status": "success",
+  "productId": 77962,
+  "productName": "72.7% 7-OH 0% MIT%! The \"Curry\" Batch Version 2!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": ".2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a 7-OH extract powder product weighing 0.2 lbs, which falls under the Small Envelope category for lightweight tablet/extract products. Using compact padded mailer dimensions suitable for small powder quantities."
+},
+{
+  "timestamp": "2025-10-23T02:08:19.232Z",
+  "status": "success",
+  "productId": 77893,
+  "productName": "19mg Strawberry 7-OH BB Tablets - A new shape and design May restock!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:08:30.554Z",
+  "status": "success",
+  "productId": 77011,
+  "productName": "33mg Black Cherry 7-OH Tablets - An amazing flavor from our new supplier!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with dimensions 16x12x8 inches for heavy tablet packaging."
+},
+{
+  "timestamp": "2025-10-23T02:08:40.556Z",
+  "status": "success",
+  "productId": 76613,
+  "productName": "33mg Blue Raspberry 7-OH Tablets - April restock!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:08:51.059Z",
+  "status": "success",
+  "productId": 76397,
+  "productName": "Cherry Pseudoindoxyl 20mg Tablets May restock! - A Kratom Distro Exclusive!!! (Compare to Press'd Red or Hydroxie)",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product weighing 35 lbs, which exceeds the 10 lb threshold for Large Box classification, requiring Extra Large Box shipping with dimensions 16x12x8 inches."
+},
+{
+  "timestamp": "2025-10-23T02:09:01.855Z",
+  "status": "success",
+  "productId": 76329,
+  "productName": "Pseudoindoxyl 20mg Green Apple Tablets!!! - A Kratom Distro Exclusive!!! (Compare to Press'd Red or Hydroxie)",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:09:13.031Z",
+  "status": "success",
+  "productId": 76210,
+  "productName": "7-OH Tablets restock! The 20mg Sweet Tarts - A Kratom Distro Exclusive!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH tablet product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:09:23.745Z",
+  "status": "success",
+  "productId": 75728,
+  "productName": "Pseudo Mac!!! 4 to 1 blend with pseudo powder.  71% 7-OH / 10% Pseudo!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35 lb powder product which exceeds 10 lbs, requiring the Extra Large Box shipping class with dimensions of 16x12x8 inches for heavy bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:09:35.019Z",
+  "status": "success",
+  "productId": 75709,
+  "productName": "85% 7-OH powder! The ”Cinnamon” batch! 85% 7-OH / 0-1% Mitragynine!  A new supplier we are trying out today!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This 7-OH extract powder product weighs 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy powder products."
+},
+{
+  "timestamp": "2025-10-23T02:09:44.393Z",
+  "status": "success",
+  "productId": 75693,
+  "productName": "52% 7-OH full spectrum powder! The ”White Chocolate” batch April restock! 52% 7-OH / 4% Mitragynine",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35 lb powder product that exceeds 10 lbs, requiring the Extra Large Box shipping class with dimensions 16×12×8 inches to accommodate the substantial weight."
+},
+{
+  "timestamp": "2025-10-23T02:09:54.442Z",
+  "status": "success",
+  "productId": 74389,
+  "productName": "25ers!  20mg 7-OH/5mg Pseudo Tablets - Blue Raspberry flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:10:04.051Z",
+  "status": "success",
+  "productId": 72631,
+  "productName": "7-OH Tablets 20mg 100ct pack at an amazing price!!!  Assorted flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a tablet product weighing 2 lbs, which falls within the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:10:13.730Z",
+  "status": "success",
+  "productId": 68913,
+  "productName": "63% 7-OH 4% MIT full spectrum 7-OH Extract Powder new product!!! - Apricot",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a powder extract product weighing 35 lbs, which exceeds 10 lbs and requires an extra large box for shipping."
+},
+{
+  "timestamp": "2025-10-23T02:10:23.406Z",
+  "status": "success",
+  "productId": 67376,
+  "productName": "58.2% 7-OH full spectrum powder! “Pollen” 58.2% 7-OH / 5% Mitragynine and 12% minor alkaloids!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35-pound extract powder product, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:10:33.406Z",
+  "status": "success",
+  "productId": 62854,
+  "productName": "74% 7-OH pure no MIT!!! \"Sparkly Brown Sugar\" V.6",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35-pound 7-OH extract powder product, which exceeds 10 lbs and requires an Extra Large Box for shipping with dimensions 16×12×8 inches to accommodate the substantial weight."
+},
+{
+  "timestamp": "2025-10-23T02:10:43.921Z",
+  "status": "success",
+  "productId": 62840,
+  "productName": "75.2% 7-OH pure no MIT!!! \"Brown Sugar\" V. 5 final half grams",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH extract powder product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. The dimensions correspond to the large shipping box size for heavy powder products."
+},
+{
+  "timestamp": "2025-10-23T02:10:54.064Z",
+  "status": "success",
+  "productId": 60351,
+  "productName": "25ers!  20mg 7-OH/5mg Pseudo Tablets - Mango flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight is 35 lbs, which exceeds 10 lbs and requires Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:11:04.115Z",
+  "status": "success",
+  "productId": 59025,
+  "productName": "7-OH Tablets 20mg 100ct pack at an amazing price!!!  Assorted flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "3",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "3",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a tablet product weighing 3 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12x9x5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:11:14.479Z",
+  "status": "success",
+  "productId": 58628,
+  "productName": "7-OH Dissolving Strip restock!  20mg Strip in a Delicious Lemon Flavor!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 7-OH dissolving strip product weighing 35 lbs, which exceeds the 10 lb threshold for Extra Large Box classification. Using conservative dimensions for a large shipping box to accommodate the weight."
+},
+{
+  "timestamp": "2025-10-23T02:11:25.831Z",
+  "status": "success",
+  "productId": 57543,
+  "productName": "20mg Mango 7-OH Tablets - New flavor from our second supplier!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a tablet product but the weight of 35 lbs exceeds 10 lbs, requiring the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:11:36.282Z",
+  "status": "success",
+  "productId": 56117,
+  "productName": "57.7% 7-OH full spectrum powder! ”Turmeric” 57.7% 7-OH / 4% Mitragynine and 13% minor alkaloids!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35-pound 7-OH extract powder product, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding large box dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:11:47.189Z",
+  "status": "success",
+  "productId": 54899,
+  "productName": "58.2% 7-OH full spectrum powder! “Pollen” 58.2% 7-OH / 5% Mitragynine and 12% minor alkaloids!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35 lb powder extract product, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:11:54.826Z",
+  "status": "success",
+  "productId": 54334,
+  "productName": "Truweigh Grand Classic Digital Mini Scale - 200g x 0.01g  Perfect for dosing extract powders in the 10-75% range!",
+  "before": {
+    "shipping_class": "",
+    "weight": "5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "5",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a digital scale product weighing 5 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches for secure shipping."
+},
+{
+  "timestamp": "2025-10-23T02:12:06.217Z",
+  "status": "success",
+  "productId": 52970,
+  "productName": "36% 7-OH full spectrum powder! The ”Cocoa” batch! 36% 7-OH / 10% Mitragynine, 23% minor alkaloids!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 35-pound powder product, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy bulk powder shipments."
+},
+{
+  "timestamp": "2025-10-23T02:12:13.663Z",
+  "status": "success",
+  "productId": 46882,
+  "productName": "Kratom Gummies - Packs of assorted flavors and strengths",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumables similar to tablets, defaulting to Small Envelope class with compact dimensions for lightweight packaging."
+},
+{
+  "timestamp": "2025-10-23T02:12:21.262Z",
+  "status": "success",
+  "productId": 46875,
+  "productName": "Everything Extract 3% 7-OH, 19% Mitragynine 57% total alkaloids - The most balanced extract ever!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is an extract product with small available sizes (5-25 grams), defaulting to Small Envelope class with compact dimensions suitable for lightweight powdered extracts."
+},
+{
+  "timestamp": "2025-10-23T02:12:30.051Z",
+  "status": "success",
+  "productId": 46787,
+  "productName": "Kratom 30mg Medium Strength gummies - Delicious raspberry Flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumables similar to tablets, defaulting to Small Envelope class with compact dimensions for small lightweight packages under 0.5 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:12:41.365Z",
+  "status": "success",
+  "productId": 46720,
+  "productName": "Kratom 15mg gummies - Best tasting gummies on the market. Four Delicious Flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a gummy product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:12:53.043Z",
+  "status": "success",
+  "productId": 46656,
+  "productName": "Kratom 50mg gummies - Best tasting gummies on the market. Three Delicious Flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a gummy product weighing 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with dimensions 16x12x8 inches for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:13:01.143Z",
+  "status": "success",
+  "productId": 46578,
+  "productName": "Shorebreak kava and kratom beverage.  Introductory pricing on an amazing new drink!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.5",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This beverage product weighs 1.5 lbs, falling within the 0.5-2 lbs range for Medium Box shipping class. The dimensions 8x6x3 inches are appropriate for a box containing beverage containers."
+},
+{
+  "timestamp": "2025-10-23T02:13:09.270Z",
+  "status": "success",
+  "productId": 46277,
+  "productName": "Hush Energy 2oz shot NEW LOW PRICE!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.5",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a 2oz liquid shot product weighing 1.5 lbs, which falls in the 0.5-2 lbs range requiring a Medium Box. The dimensions 8x6x3 inches accommodate the small bottle size while providing protective packaging."
+},
+{
+  "timestamp": "2025-10-23T02:13:17.506Z",
+  "status": "success",
+  "productId": 45849,
+  "productName": "Full Spectrum 100x Kratom Extract Capsules",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is capsules/extract with 2 lbs weight, placing it in the 2-10 lbs range requiring Large Box shipping class with corresponding dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:13:25.286Z",
+  "status": "success",
+  "productId": 45843,
+  "productName": "Full Spectrum 7-OH Kratom Extract Capsules",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is capsules weighing 2 lbs, which falls in the 2-10 lbs range requiring Large Box shipping class with corresponding dimensions of 12x9x5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:13:32.968Z",
+  "status": "success",
+  "productId": 45837,
+  "productName": "Space Dust Kratom Extract Capsules! 26.5% / 115mg MIT",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is extract capsules weighing 2 lbs, which falls in the 2-10 lbs range requiring Large Box shipping class with corresponding dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:13:41.023Z",
+  "status": "success",
+  "productId": 45558,
+  "productName": "5% 7-OH!  5 grams low MIT high 7-OH Extract Powder - 5% 7-OH/10% Mitragynine",
+  "before": {
+    "shipping_class": "",
+    "weight": ".5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.5",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a 5-gram extract powder product weighing exactly 0.5 lbs, which falls within the Small Envelope category for lightweight tablet/extract products, using compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:13:49.364Z",
+  "status": "success",
+  "productId": 45519,
+  "productName": "Liquid Kratom Super Strength Shot - 10ml shot with 155mg Mitragynine - Four Delicious Flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.5",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This 10ml liquid kratom shot weighs 1.5 lbs, placing it in the Medium Box category (0.5-2 lbs range), requiring dimensions of 8×6×3 inches for secure shipping."
+},
+{
+  "timestamp": "2025-10-23T02:13:58.889Z",
+  "status": "success",
+  "productId": 45509,
+  "productName": "Liquid Kratom Extract Shot - 10ml shot with 110mg Mitragynine - Three Delicious Flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.5",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a liquid extract shot weighing 1.5 lbs, which falls in the 0.5-2 lbs range requiring a Medium Box. The 8x6x3 inch dimensions are appropriate for a small box containing multiple liquid vials."
+},
+{
+  "timestamp": "2025-10-23T02:14:06.772Z",
+  "status": "success",
+  "productId": 45501,
+  "productName": "3% 7-OH!!! 5 grams MEDIUM 7-OH HIGH MIT Extract Powder - 3% 7-OH/19% Mitragynine",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a 5-gram extract powder product weighing 2 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:14:15.129Z",
+  "status": "success",
+  "productId": 43816,
+  "productName": "Final Batch Space Dust Extract 26.5% - The last batch ever produced!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a kratom extract product with small available sizes (5-25 grams), defaulting to 0.2 lbs weight and Small Envelope shipping class as it's lightweight and compact like tablet/extract products."
+},
+{
+  "timestamp": "2025-10-23T02:14:23.409Z",
+  "status": "success",
+  "productId": 42189,
+  "productName": "1 Gram (1000mg pure CBD) isolate powder",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a small 1 gram CBD isolate powder product that weighs under 0.5 lbs, making it suitable for Small Envelope shipping with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:14:31.515Z",
+  "status": "success",
+  "productId": 42177,
+  "productName": "Delta 8 Vape Cartridge - Blue Raspberry Flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape cartridges are small, lightweight items similar to tablets/extracts. Using default weight of 0.2 lbs and Small Envelope class with compact dimensions suitable for small electronic components."
+},
+{
+  "timestamp": "2025-10-23T02:14:38.111Z",
+  "status": "success",
+  "productId": 42168,
+  "productName": "Delta 8 Vape Cartridge - Strawberry Flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape cartridges are small, lightweight items similar to tablets/extracts. Using default weight of 0.2 lbs and Small Envelope class with compact dimensions suitable for small electronic components."
+},
+{
+  "timestamp": "2025-10-23T02:14:45.150Z",
+  "status": "success",
+  "productId": 42158,
+  "productName": "Delta 8 Vape Cartridge - Delicious Gelato Flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape cartridges are small, lightweight items similar to tablets/extracts. Using default weight of 0.2 lbs and Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:14:52.257Z",
+  "status": "success",
+  "productId": 42147,
+  "productName": "Delta 8 Vape Cartridge - Assorted flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape cartridges are small, lightweight items similar to tablets/extracts. Using default weight of 0.2 lbs and Small Envelope class with compact dimensions suitable for small electronic components."
+},
+{
+  "timestamp": "2025-10-23T02:14:59.067Z",
+  "status": "success",
+  "productId": 42137,
+  "productName": "Delta 8 Vape Cartridge - OG Kush (Natural) Flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape cartridges are small, lightweight items that fit in a padded envelope. Using default weight of 0.2 lbs and small envelope dimensions for compact electronic accessories."
+},
+{
+  "timestamp": "2025-10-23T02:15:06.018Z",
+  "status": "success",
+  "productId": 42108,
+  "productName": "Kratom Gummies - Assorted flavors and strengths",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumable products similar to tablets, defaulting to 0.2 lbs weight and Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:15:13.724Z",
+  "status": "success",
+  "productId": 42106,
+  "productName": "*Super Strength* 10ml (155mg MIT) Tropical Flavored Extract Shot - Order by itself, or add to orders",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a small 10ml extract shot that weighs only 2 ounces (0.125 lbs), fitting the Small Envelope class for lightweight liquid products despite the 2 oz weight value."
+},
+{
+  "timestamp": "2025-10-23T02:15:20.805Z",
+  "status": "success",
+  "productId": 42019,
+  "productName": "10ml (110mg MIT) Lime Flavored Extract Shot - Order by itself, or add to orders",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a small 10ml liquid extract shot that weighs only 2 ounces (0.125 lbs), fitting easily in a small padded envelope despite the 2 oz weight entry."
+},
+{
+  "timestamp": "2025-10-23T02:15:28.959Z",
+  "status": "success",
+  "productId": 41731,
+  "productName": "OPMS Black Kratom Extract Capsules - 3 Pack",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is extract capsules (tablet form) with no weight specified, so default to 0.2 lbs and use Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:15:37.375Z",
+  "status": "success",
+  "productId": 41729,
+  "productName": "OPMS Black Kratom Extract Capsules - 2 Pack",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is extract capsules (tablet form) with no weight specified, so defaulted to 0.2 lbs for small envelope shipping. Capsules are lightweight and compact, fitting the small padded envelope dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:15:44.977Z",
+  "status": "success",
+  "productId": 41728,
+  "productName": "OPMS Gold Kratom Extract Capsules - 3 Pack",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is capsules/extract tablets which are lightweight and compact, defaulting to Small Envelope class with padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:15:52.241Z",
+  "status": "success",
+  "productId": 41725,
+  "productName": "OPMS Gold Kratom Extract Capsules - 2 Pack",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is capsules/extract tablets with no weight specified, defaulting to 0.2 lbs for Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:15:59.380Z",
+  "status": "success",
+  "productId": 41724,
+  "productName": "Hush Energy 2oz shot NEW LOW PRICE!",
+  "before": {
+    "shipping_class": "",
+    "weight": "2.5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2.5",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is a 2oz liquid extract shot weighing 2.5 lbs, which falls in the 2-10 lbs range requiring Large Box shipping class with corresponding dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:16:06.813Z",
+  "status": "success",
+  "productId": 41721,
+  "productName": "OPMS Gold Liquid Extract Kratom Shot!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is a liquid extract shot in a small 8.8ml bottle, lightweight and compact, fitting the Small Envelope category for tablet/extract products under 0.5 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:16:14.790Z",
+  "status": "success",
+  "productId": 41719,
+  "productName": "OPMS Black Liquid Extract Kratom Shot",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a liquid extract shot product that comes in a small bottle, making it lightweight and suitable for a small padded envelope. Default weight of 0.2 lbs applied since no weight was provided."
+},
+{
+  "timestamp": "2025-10-23T02:16:24.791Z",
+  "status": "success",
+  "productId": 38757,
+  "productName": "Javanica and Hirsuta Reset Packs",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is a powder-based reset pack with weight defaulted to 0.2 lbs, placing it in the Small Envelope category with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:16:34.961Z",
+  "status": "success",
+  "productId": 38044,
+  "productName": "1/2kg Ultimate Kratom Sample Pack - 2kg total - 4 strains from any of our 49 options! No Scale.",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4.4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a 2kg (4.4 lbs) kratom powder sample pack containing 4 half-kilo bags, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12x9x5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:16:43.886Z",
+  "status": "success",
+  "productId": 38027,
+  "productName": "200g 5 way Kratom Split Kilo Sampler Pack (1kg total)!  Free add-in included!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2.2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a 1kg (2.2 lbs) kratom powder sampler pack, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12x9x5 inches for adequate packaging space."
+},
+{
+  "timestamp": "2025-10-23T02:16:52.782Z",
+  "status": "success",
+  "productId": 37778,
+  "productName": "2oz Kratom Samplers 5 Pack -  Free add-in included!",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is kratom powder with weight of 11 lbs, which exceeds 10 lbs threshold and requires Extra Large Box shipping class with corresponding dimensions for heavy packages."
+},
+{
+  "timestamp": "2025-10-23T02:17:02.960Z",
+  "status": "success",
+  "productId": 37530,
+  "productName": "5kg Peace of Mind Sale!  5kg of your choice (special blend and small batch kilos under Selection 5 only)",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11.0",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 5kg (11 lb) kratom powder bundle that exceeds 10 lbs, requiring Extra Large Box shipping class with dimensions suitable for bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:17:11.059Z",
+  "status": "success",
+  "productId": 37485,
+  "productName": "Moon Dust Extract 45 - Our most potent extract!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is an extract product with small available sizes (5-25 grams), defaulting to 0.2 lbs weight and Small Envelope shipping class with compact dimensions suitable for lightweight powdered extracts."
+},
+{
+  "timestamp": "2025-10-23T02:17:19.456Z",
+  "status": "success",
+  "productId": 35352,
+  "productName": "2oz Kratom Green Selimbau (New Tiny Batch!)",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 11 lbs kratom powder which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with dimensions 16×12×8 inches for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:17:27.454Z",
+  "status": "success",
+  "productId": 31784,
+  "productName": "Kanva Mango Tango Liquid Kratom Shot-- 120mg Mit",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Liquid kratom shot is a small, lightweight extract product similar to tablets, defaulting to Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:17:35.781Z",
+  "status": "success",
+  "productId": 18076,
+  "productName": "2oz Kratom Green XXX (Tiny Batch!)",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 11 lbs kratom powder, which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with dimensions 16×12×8 inches for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:17:42.410Z",
+  "status": "success",
+  "productId": 14993,
+  "productName": "2oz Kratom Yellow Bika (Tiny Batch!)",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 11 lbs kratom powder, exceeding 10 lbs threshold, requiring extra large box dimensions for shipping."
+},
+{
+  "timestamp": "2025-10-23T02:17:49.820Z",
+  "status": "success",
+  "productId": 14304,
+  "productName": "Delta 8 CBD tincture - Lemon Meringue flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Tincture products are small liquid containers that fit in padded envelopes; using default 0.2 lbs weight and small envelope dimensions for compact packaging."
+},
+{
+  "timestamp": "2025-10-23T02:17:59.085Z",
+  "status": "success",
+  "productId": 14301,
+  "productName": "Delta 8 CBD tincture - Watermelon flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Tincture products are small liquid containers that fit in padded envelopes; using default weight of 0.2 lbs and small envelope dimensions for compact packaging."
+},
+{
+  "timestamp": "2025-10-23T02:18:07.091Z",
+  "status": "success",
+  "productId": 14298,
+  "productName": "Delta 8 CBD tincture - Peppermint flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Tincture products are small liquid containers that fit in padded envelopes; using default weight of 0.2 lbs and Small Envelope dimensions for compact packaging."
+},
+{
+  "timestamp": "2025-10-23T02:18:13.876Z",
+  "status": "success",
+  "productId": 14295,
+  "productName": "Delta 8 CBD tincture - Cotton Candy flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Tincture products are small liquid containers that fit in padded envelopes; using default weight of 0.2 lbs and small envelope dimensions for compact packaging."
+},
+{
+  "timestamp": "2025-10-23T02:18:22.506Z",
+  "status": "success",
+  "productId": 14290,
+  "productName": "Delta 8 CBD tincture - Strawberry Guava flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a liquid tincture product that comes in small 10ml-30ml bottles, making it lightweight and compact. Defaulting to Small Envelope class with padded mailer dimensions since weight is missing and tinctures are typically small items."
+},
+{
+  "timestamp": "2025-10-23T02:18:30.847Z",
+  "status": "success",
+  "productId": 14285,
+  "productName": "Delta 8 CBD gummies - Assorted flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumables similar to tablets, defaulting to 0.2 lbs and Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:18:38.543Z",
+  "status": "success",
+  "productId": 14280,
+  "productName": "Delta 8 CBD gummies - Watermelon flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumable products similar to tablets, defaulting to Small Envelope class with compact padded mailer dimensions for lightweight items under 0.5 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:18:46.626Z",
+  "status": "success",
+  "productId": 14275,
+  "productName": "Delta 8 CBD gummies - Blackberry Mint flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumables similar to tablets, defaulting to Small Envelope class with compact padded mailer dimensions for lightweight items under 0.5 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:18:54.936Z",
+  "status": "success",
+  "productId": 14269,
+  "productName": "Delta 8 CBD gummies - Blueberry flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumables similar to tablets, defaulting to 0.2 lbs and Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:19:02.537Z",
+  "status": "success",
+  "productId": 14264,
+  "productName": "Delta 8 CBD gummies - Tropical flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumables similar to tablets, defaulting to Small Envelope class with compact dimensions for lightweight packaging."
+},
+{
+  "timestamp": "2025-10-23T02:19:09.586Z",
+  "status": "success",
+  "productId": 14259,
+  "productName": "Delta 8 CBD gummies - Citrus flavor",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumable products similar to tablets, defaulting to Small Envelope class with compact dimensions for small, lightweight items under 0.5 lbs."
+},
+{
+  "timestamp": "2025-10-23T02:19:19.466Z",
+  "status": "success",
+  "productId": 13909,
+  "productName": "2oz Kratom White Piasak (Tiny Batch!)",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This 2oz Kratom powder product weighs 11 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with dimensions 16×12×8 inches for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:19:28.040Z",
+  "status": "success",
+  "productId": 13661,
+  "productName": "2oz Kratom Red Piasak (Tiny Batch!)",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 11 lbs kratom powder which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with dimensions 16×12×8 inches for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:19:37.556Z",
+  "status": "success",
+  "productId": 10881,
+  "productName": "10kg Peace of Mind Sale!  10kg of your choice (2kg per selection, special blend and small batch kilos under Selection 5 only)",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "22.05",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 10kg (22.05 lbs) kratom powder bundle which exceeds 10 lbs, requiring Extra Large Box shipping class with dimensions suitable for heavy bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:19:46.004Z",
+  "status": "success",
+  "productId": 10400,
+  "productName": "2oz Kratom Green Mupa (Tiny Batch!)",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is kratom powder weighing 11 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with corresponding dimensions for heavy powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:19:54.308Z",
+  "status": "success",
+  "productId": 10136,
+  "productName": "Delta 8 Vape Pen (built-in battery) - 5 delicious flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape pen with built-in battery is a small electronic device that weighs under 0.5 lbs, making it suitable for Small Envelope shipping with compact dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:20:03.053Z",
+  "status": "success",
+  "productId": 10124,
+  "productName": "Delta 8 Vape Cartridge with Battery/Charger - 5 delicious flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape cartridges are small electronic devices that fit in small padded envelopes. Using default weight of 0.2 lbs for lightweight electronic components and cartridges."
+},
+{
+  "timestamp": "2025-10-23T02:20:11.072Z",
+  "status": "success",
+  "productId": 10114,
+  "productName": "Delta 8 Vape Cartridge - 5 delicious flavors",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Vape cartridges are small, lightweight items that fit in a padded envelope; using default weight of 0.2 lbs and small envelope dimensions for compact electronic accessories."
+},
+{
+  "timestamp": "2025-10-23T02:20:22.015Z",
+  "status": "success",
+  "productId": 9639,
+  "productName": "Javanica, Hirsuta and Reset Packs",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is a powder-based botanical with small package sizes (100g-1000g), defaulting to Small Envelope class with compact dimensions for lightweight powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:20:30.862Z",
+  "status": "success",
+  "productId": 8887,
+  "productName": "5kg Peace of Mind Sale!  5kg of your choice (special kilos under Selection 5 only)",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11.02",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This is a 5kg kratom powder product (approximately 11.02 lbs), which exceeds 10 lbs and requires Extra Large Box shipping class with corresponding large box dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:20:38.921Z",
+  "status": "success",
+  "productId": 8523,
+  "productName": "Full Spectrum 200x Kratom Extract Capsules",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Capsule products default to Small Envelope class regardless of weight, as they are compact and lightweight enough for padded mailers."
+},
+{
+  "timestamp": "2025-10-23T02:20:47.655Z",
+  "status": "success",
+  "productId": 8124,
+  "productName": "Hush Soft Gels 8ct XL",
+  "before": {
+    "shipping_class": "",
+    "weight": "1",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "Product is a soft gel extract with 1 lb weight, falling in the 0.5-2 lbs range requiring Medium Box shipping class with standard small box dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:20:54.587Z",
+  "status": "success",
+  "productId": 8030,
+  "productName": "Enhanced Indo - A KD Original!",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is an enhanced kratom powder/extract blend weighing 2 lbs, which falls in the 2-10 lbs range requiring Large Box shipping class with corresponding dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:21:02.585Z",
+  "status": "success",
+  "productId": 8005,
+  "productName": "Ultra Enhanced Indo - A KD Original!",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is an enhanced kratom extract blend weighing 2 lbs, which falls in the 2-10 lbs range requiring Large Box shipping class with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:21:09.143Z",
+  "status": "success",
+  "productId": 7714,
+  "productName": "1000mg pure CBD isolate powder",
+  "before": {
+    "shipping_class": "",
+    "weight": ".1",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.1",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is CBD isolate powder weighing only 0.1 lbs, which falls under the Small Envelope category for lightweight powder samples under 0.5 lbs"
+},
+{
+  "timestamp": "2025-10-23T02:21:17.447Z",
+  "status": "success",
+  "productId": 7194,
+  "productName": "Full Spectrum 50x Kratom Extract Capsules",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is capsules/extract with 2 lbs weight, placing it in the 2-10 lbs range requiring Large Box shipping class with corresponding dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:21:24.719Z",
+  "status": "success",
+  "productId": 7187,
+  "productName": "Full Spectrum 50x Extract $7 Extract powder!",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is a 2 lb extract powder, which falls in the 2-10 lbs range requiring Large Box shipping class with dimensions 12x9x5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:21:32.469Z",
+  "status": "success",
+  "productId": 7171,
+  "productName": "Hush Silver Caps",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is capsules/extract with 2 lbs weight, placing it in the 2-10 lbs range requiring Large Box shipping class with standard dimensions for this weight category."
+},
+{
+  "timestamp": "2025-10-23T02:21:39.845Z",
+  "status": "success",
+  "productId": 7162,
+  "productName": "Hush Soft Gels 15ct",
+  "before": {
+    "shipping_class": "",
+    "weight": "1",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a soft gel extract product weighing 1 lb, which falls in the 0.5-2 lb range requiring a Medium Box with dimensions 8×6×3 inches."
+},
+{
+  "timestamp": "2025-10-23T02:21:47.904Z",
+  "status": "success",
+  "productId": 7158,
+  "productName": "Hush Gummies - Tropical Flavored",
+  "before": {
+    "shipping_class": "",
+    "weight": "1",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "1",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Gummies are lightweight consumable products that ship in small padded envelopes; 1 lb weight falls within Small Envelope range with compact dimensions suitable for gummy packaging."
+},
+{
+  "timestamp": "2025-10-23T02:21:56.168Z",
+  "status": "success",
+  "productId": 7156,
+  "productName": "Hush Gold Caps 5pk",
+  "before": {
+    "shipping_class": "",
+    "weight": ".5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.5",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is extract capsules weighing 0.5 lbs, which falls within the Small Envelope category for lightweight tablet/extract products using compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:22:05.707Z",
+  "status": "success",
+  "productId": 7153,
+  "productName": "Hush Gold Caps 3pk",
+  "before": {
+    "shipping_class": "",
+    "weight": ".5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.5",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a capsule/extract product weighing exactly 0.5 lbs, which falls within the Small Envelope category for lightweight tablet/capsule products."
+},
+{
+  "timestamp": "2025-10-23T02:22:13.932Z",
+  "status": "success",
+  "productId": 7148,
+  "productName": "Hush Gold Caps 2pk",
+  "before": {
+    "shipping_class": "",
+    "weight": ".5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.5",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is extract capsules weighing 0.5 lbs, which falls within the Small Envelope category for lightweight tablet/extract products using compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:22:22.257Z",
+  "status": "success",
+  "productId": 7146,
+  "productName": "Hush Platinum Liquid Gel Caps",
+  "before": {
+    "shipping_class": "",
+    "weight": ".5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.5",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is liquid gel caps (tablet-like form) weighing 0.5 lbs, which fits the Small Envelope class for lightweight tablet/extract products under 0.5 lbs threshold."
+},
+{
+  "timestamp": "2025-10-23T02:22:30.413Z",
+  "status": "success",
+  "productId": 7134,
+  "productName": "Hush Ultra Shots - Coffee",
+  "before": {
+    "shipping_class": "",
+    "weight": "1",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a liquid extract shot product weighing 1 lb, which falls in the 0.5-2 lbs range requiring a Medium Box with dimensions 8×6×3 inches."
+},
+{
+  "timestamp": "2025-10-23T02:22:39.076Z",
+  "status": "success",
+  "productId": 7129,
+  "productName": "Hush Ultra Shots - Lime",
+  "before": {
+    "shipping_class": "",
+    "weight": "1",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a liquid extract shot product weighing 1 lb, which falls in the 0.5-2 lbs range requiring a Medium Box with dimensions 8×6×3 inches."
+},
+{
+  "timestamp": "2025-10-23T02:22:47.831Z",
+  "status": "success",
+  "productId": 7123,
+  "productName": "Hush Energy 2oz shot",
+  "before": {
+    "shipping_class": "",
+    "weight": "2.5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2.5",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is a 2.5oz liquid shot weighing 2.5 lbs, which falls in the 2-10 lbs range requiring Large Box shipping class with dimensions 12x9x5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:22:56.084Z",
+  "status": "success",
+  "productId": 5078,
+  "productName": "1/2kg Ultimate Kratom Sample Pack - 2kg total - 4 strains from any of our 49 options! No Scale",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4.4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a 2kg (4.4 lbs) kratom powder sample pack containing 4 half-kilo bags, which falls in the 2-10 lbs range requiring a Large Box. The dimensions 12x9x5 inches accommodate multiple powder bags safely."
+},
+{
+  "timestamp": "2025-10-23T02:23:05.396Z",
+  "status": "success",
+  "productId": 4831,
+  "productName": "1/2kg Ultimate Kratom Combo Pack - 2kg total - 4 strains from any of our 49 options with digital scale!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4.4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This product contains 2kg (4.4 lbs) of kratom powder plus a digital scale, placing it in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:23:15.315Z",
+  "status": "success",
+  "productId": 4585,
+  "productName": "200g 5 way Kratom Split Kilo Sampler Pack (1kg total)!  Free add-in included!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2.2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a 1kg kratom powder sampler pack (5x 200g bags), weighing approximately 2.2 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12x9x5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:23:24.992Z",
+  "status": "success",
+  "productId": 4339,
+  "productName": "100g Cheap Kratom Sampler Pack (500g total) - Free add-in included!",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.1",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This is a 500g kratom powder sampler pack (approximately 1.1 lbs), which falls in the 0.5-2 lbs range requiring a Medium Box. Powder products require boxes rather than envelopes for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:23:36.607Z",
+  "status": "success",
+  "productId": 3847,
+  "productName": "2oz Kratom Samplers 5 Pack -  Free add-in included!",
+  "before": {
+    "shipping_class": "",
+    "weight": "11",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "11",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This product contains 5 packs of 2oz kratom powder samplers totaling 11 lbs, which exceeds 10 lbs and requires Extra Large Box shipping class with dimensions 16x12x8 inches for bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:23:50.038Z",
+  "status": "success",
+  "productId": 3706,
+  "productName": "(57g) 2oz Kratom Blends and Trainwreck Kratom Powder - 19 strains and blends - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "2",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "This 2oz (57g) kratom powder product weighs 2 lbs, placing it in the 0.5-2 lbs range, which requires a Medium Box with dimensions 8×6×3 inches for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:24:02.210Z",
+  "status": "success",
+  "productId": 3653,
+  "productName": "(57g) 2oz Quality White Kratom Sampler- 17 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 2oz (57g) kratom powder sampler weighs 2 lbs total, placing it in the Large Box category (2-10 lbs range) with appropriate dimensions for a medium shipping box."
+},
+{
+  "timestamp": "2025-10-23T02:24:13.561Z",
+  "status": "success",
+  "productId": 3592,
+  "productName": "(57g) 2oz Quality Red Kratom Sampler- 22 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 2oz kratom powder sampler weighs 2 lbs, placing it in the Large Box category (2-10 lbs range) with corresponding dimensions of 12x9x5 inches for medium shipping boxes."
+},
+{
+  "timestamp": "2025-10-23T02:24:26.425Z",
+  "status": "success",
+  "productId": 3354,
+  "productName": "100 grams (~4oz) Specialty Fresh Kratom Powder Blends and Trainwreck Kratom!  20 Strains and Blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "4",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 100g kratom powder product weighs approximately 4 lbs, which falls within the 2-10 lbs range requiring a Large Box. The dimensions correspond to a medium shipping box suitable for this weight class."
+},
+{
+  "timestamp": "2025-10-23T02:24:37.981Z",
+  "status": "success",
+  "productId": 3252,
+  "productName": "100 grams (~4oz) Fresh Red Kratom - 21 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "4",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 100g kratom powder product weighs 4 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12x9x5 inches for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:24:49.881Z",
+  "status": "success",
+  "productId": 3191,
+  "productName": "100g Fresh White Kratom Powder - 19 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "4",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 100g kratom powder product weighs 4 lbs, which falls in the 2-10 lbs range requiring a Large Box. The dimensions 12x9x5 inches are appropriate for this weight class of powder products."
+},
+{
+  "timestamp": "2025-10-23T02:25:02.048Z",
+  "status": "success",
+  "productId": 2923,
+  "productName": "200 grams (~8oz) Specialty Blends and Trainwreck - 20 strains and blends - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "8",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "8",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 200g (~8oz) kratom powder product weighs 8 lbs, which falls in the 2-10 lbs range requiring a Large Box. Powder products require boxes rather than envelopes for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:25:10.033Z",
+  "status": "success",
+  "productId": 2827,
+  "productName": "Liquid Kratom Extract Shot - 10ml Lime Flavored House Shot",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This liquid extract shot weighs 2 lbs, placing it in the Large Box category (2-10 lbs range), requiring dimensions of 12x9x5 inches for secure shipping."
+},
+{
+  "timestamp": "2025-10-23T02:25:22.806Z",
+  "status": "success",
+  "productId": 2747,
+  "productName": "200 grams white kratom powder - 19 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "8",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "8",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 200g kratom powder product weighs 8 lbs, placing it in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:25:35.976Z",
+  "status": "success",
+  "productId": 2732,
+  "productName": "200 grams red kratom powder - 22 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "8",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "8",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 200g kratom powder product weighs 8 lbs, which falls in the 2-10 lbs range requiring a Large Box. The dimensions 12x9x5 inches are appropriate for this weight class of powder products."
+},
+{
+  "timestamp": "2025-10-23T02:25:47.881Z",
+  "status": "success",
+  "productId": 2681,
+  "productName": "(57g) 2oz Green Kratom Powder Sampler- 23 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 2oz (57g) kratom powder sampler weighs 2 lbs, placing it in the Large Box category (2-10 lbs range) with corresponding dimensions of 12x9x5 inches for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:26:00.242Z",
+  "status": "success",
+  "productId": 2664,
+  "productName": "100g Fresh Green Kratom Powder - 23 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "4",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "4",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 100g kratom powder product weighs 4 lbs, which falls in the 2-10 lbs range requiring a Large Box. The dimensions 12x9x5 inches are appropriate for this weight class."
+},
+{
+  "timestamp": "2025-10-23T02:26:13.757Z",
+  "status": "success",
+  "productId": 2647,
+  "productName": "200 grams (~8oz) green kratom powder - 22 strains - Option for Extract/Potentiator blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "8",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "8",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This 200g (~8oz) kratom powder product weighs 8 lbs, placing it in the 2-10 lbs range requiring a Large Box with dimensions 12x9x5 inches for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:26:21.367Z",
+  "status": "success",
+  "productId": 2566,
+  "productName": "Full Spectrum 200x Kratom Extract!  Wholesale Kratom Extract",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is a kratom extract with 2 lbs weight, placing it in the 2-10 lbs range requiring Large Box shipping class with corresponding dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:26:29.055Z",
+  "status": "success",
+  "productId": 2553,
+  "productName": "Wholesale Bulk Kratom Capsules - 10 Strains: 1,000/ct",
+  "before": {
+    "shipping_class": "",
+    "weight": "23",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "23",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product weighs 23 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with dimensions 16x12x8 inches for bulk capsules packaging."
+},
+{
+  "timestamp": "2025-10-23T02:26:35.741Z",
+  "status": "success",
+  "productId": 2514,
+  "productName": "White Kratom Powder Capsules - 5 Strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Capsule products default to Small Envelope class with compact dimensions; weight set to default 0.2 lbs as no weight was provided."
+},
+{
+  "timestamp": "2025-10-23T02:26:46.972Z",
+  "status": "success",
+  "productId": 2491,
+  "productName": "Green Kratom Capsules - 8 Strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Capsule products default to Small Envelope class with compact dimensions as they are lightweight and tablet-like in packaging requirements."
+},
+{
+  "timestamp": "2025-10-23T02:26:58.236Z",
+  "status": "success",
+  "productId": 2459,
+  "productName": "1kg wholesale green kratom powder kilos - 21 strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "This 1kg wholesale kratom powder product weighs 35 lbs, which exceeds 10 lbs and requires the Extra Large Box shipping class with dimensions 16x12x8 inches to accommodate the bulk powder quantity."
+},
+{
+  "timestamp": "2025-10-23T02:27:05.837Z",
+  "status": "success",
+  "productId": 2437,
+  "productName": "Red Kratom Capsules - 5 Strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Capsules are lightweight tablet-like products that ship in small padded envelopes. Default weight of 0.2 lbs and small envelope dimensions applied."
+},
+{
+  "timestamp": "2025-10-23T02:27:15.274Z",
+  "status": "success",
+  "productId": 2429,
+  "productName": "Kratom Gold Enhanced Blend - Superpowder Capsules",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is capsules (tablet-like form) with no weight specified, so using default 0.2 lbs weight which falls under Small Envelope class with compact padded mailer dimensions."
+},
+{
+  "timestamp": "2025-10-23T02:27:23.350Z",
+  "status": "success",
+  "productId": 2413,
+  "productName": "Blaze Truweigh Digital Pocket Kratom Scale",
+  "before": {
+    "shipping_class": "",
+    "weight": "5",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "5",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "Product is a digital pocket scale weighing 5 lbs, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches."
+},
+{
+  "timestamp": "2025-10-23T02:27:31.405Z",
+  "status": "success",
+  "productId": 2411,
+  "productName": "Kratom Platinum Enhanced Blend - Superpowder",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This enhanced kratom powder product weighs 2 lbs, placing it in the 2-10 lbs range requiring a Large Box. The powder format also necessitates box packaging rather than envelope shipping."
+},
+{
+  "timestamp": "2025-10-23T02:27:39.818Z",
+  "status": "success",
+  "productId": 2406,
+  "productName": "Kratom Gold Enhanced Blend - Superpowder",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "12",
+      "width": "9",
+      "height": "5"
+    }
+  },
+  "rationale": "This is a 2 lb enhanced kratom powder product, which falls in the 2-10 lbs range requiring a Large Box with dimensions 12×9×5 inches for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:27:48.169Z",
+  "status": "success",
+  "productId": 2405,
+  "productName": "Full Spectrum 100x Extract",
+  "before": {
+    "shipping_class": "",
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "0.2",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "This is a concentrated extract product that comes in small gram quantities (10g-1kg), making it lightweight and suitable for a small padded envelope. Using default weight of 0.2 lbs for extract products."
+},
+{
+  "timestamp": "2025-10-23T02:27:56.223Z",
+  "status": "success",
+  "productId": 2391,
+  "productName": "1/2 kg Fresh White Kratom Powder - 17 Strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "18",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "18",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 18 lbs kratom powder, exceeding 10 lbs threshold, requiring Extra Large Box with dimensions 16×12×8 inches for bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:28:04.457Z",
+  "status": "success",
+  "productId": 2382,
+  "productName": "1/2 kg Yellow Strains and Blends - 20 Strains and Blends!",
+  "before": {
+    "shipping_class": "",
+    "weight": "18",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "18",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 18 lbs kratom powder, exceeding 10 lbs threshold, requiring Extra Large Box with dimensions 16×12×8 inches for bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:28:16.739Z",
+  "status": "success",
+  "productId": 2362,
+  "productName": "Half Kilo Green Kratom Powder - 21 Strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "18",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "18",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Half kilo (500g) green kratom powder weighs approximately 1.1 lbs, which falls in the 0.5-2 lbs range requiring a Medium Box. Powder products use boxes rather than envelopes for proper packaging."
+},
+{
+  "timestamp": "2025-10-23T02:28:24.594Z",
+  "status": "success",
+  "productId": 2347,
+  "productName": "1/2 kg Red Kratom Powder - 19 Strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "18",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "18",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 18 lbs kratom powder, which exceeds 10 lbs threshold, requiring Extra Large Box classification with dimensions 16×12×8 inches."
+},
+{
+  "timestamp": "2025-10-23T02:28:32.800Z",
+  "status": "success",
+  "productId": 2340,
+  "productName": "Ultimate Kratom Combo Pack",
+  "before": {
+    "shipping_class": "",
+    "weight": "76",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "76",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product weighs 76 lbs, which exceeds 10 lbs threshold, requiring Extra Large Box shipping class with dimensions 16x12x8 inches for heavy bulk powder and extract combination."
+},
+{
+  "timestamp": "2025-10-23T02:28:41.300Z",
+  "status": "success",
+  "productId": 1578,
+  "productName": "1kg Kratom Blends and Exotic Yellow Strains - 20 Strains and Blends",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is 35 lbs kratom powder, exceeding 10 lbs threshold, requiring Extra Large Box with dimensions 16×12×8 inches for bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:28:48.368Z",
+  "status": "success",
+  "productId": 1576,
+  "productName": "Red Kilo Kratom Powder - 19 Strains",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is a 35 lb kilo of kratom powder, which exceeds 10 lbs and requires Extra Large Box shipping class with dimensions 16×12×8 inches for bulk powder packaging."
+},
+{
+  "timestamp": "2025-10-23T02:28:56.745Z",
+  "status": "success",
+  "productId": 1572,
+  "productName": "White Kilo Kratom Powder - 16 Strains - Wholesale",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "16",
+      "width": "12",
+      "height": "8"
+    }
+  },
+  "rationale": "Product is a 35 lb kratom powder wholesale kilo, which exceeds 10 lbs and requires Extra Large Box shipping class with dimensions 16×12×8 inches for heavy bulk powder packaging."
+}
+]

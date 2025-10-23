@@ -1,6 +1,10 @@
 {
+  "type": "module",
   "devDependencies": {
     "axios": "^1.12.2",
     "dotenv": "^17.2.3"
+  },
+  "dependencies": {
+    "redis": "^5.8.3"
   }
 }

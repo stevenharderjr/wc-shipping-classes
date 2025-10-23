@@ -1,0 +1,77 @@
+[
+{
+  "timestamp": "2025-10-23T03:25:39.409Z",
+  "status": "success",
+  "productId": 108482,
+  "productName": "90% 7-OH pure no MIT!!! 7-OH Extract Powder - Mac n Cheese V.11",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.76",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "Extracted 1g powder weight from description (1 gram of 7-OH/Mitragynine Extract Powder), converted to 0.035 oz, but applied minimum weight of 1.76 oz (50g) as per guidelines. Powder products require boxes for protection, placing this in Medium Box class despite low weight."
+},
+{
+  "timestamp": "2025-10-23T03:25:48.439Z",
+  "status": "success",
+  "productId": 108059,
+  "productName": "60mg Blueberry 7-OH Tablets - Our first 60mg Tablet on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "1.76",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is 60mg 7-OH tablets but no count specified in description. Using minimum weight of 1.76 oz (50g) as tablets are lightweight. Weight under 8 oz qualifies for Small Envelope shipping class for tablet products."
+},
+{
+  "timestamp": "2025-10-23T03:25:57.877Z",
+  "status": "success",
+  "productId": 107995,
+  "productName": "7-OH Tablets - The 40mg Bubble Gum Tablets - A delicious new flavor from our original supplier on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "0.2",
+    "dimensions": {
+      "length": "8",
+      "width": "5",
+      "height": "1"
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "1.76",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Single 40mg tablet weighs approximately 1-2g total, which is far below the 50g minimum. Using minimum weight of 1.76 oz (50g) as required. Tablet products under 8 oz qualify for Small Envelope shipping class."
+}
+]

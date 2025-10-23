@@ -1,0 +1,42 @@
+[
+{
+  "timestamp": "2025-10-23T01:39:16.489Z",
+  "status": "success",
+  "productId": 108482,
+  "productName": "90% 7-OH pure no MIT!!! 7-OH Extract Powder - Mac n Cheese V.11",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  }
+},
+{
+  "timestamp": "2025-10-23T01:39:24.924Z",
+  "status": "failed",
+  "productId": 108059,
+  "productName": "60mg Blueberry 7-OH Tablets - Our first 60mg Tablet on sale now!!!",
+  "error": "AI parsing failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+  "aiResponse": "```json\n{\n  \"id\": 108059,\n  \"weight\": \"35\",\n  \"shipping_class_id\": 148,\n  \"dimensions\": {\n    \"length\": \"18\",\n    \"width\": \"12\", \n    \"height\": \"10\"\n  }\n}\n```"
+},
+{
+  "timestamp": "2025-10-23T01:39:33.365Z",
+  "status": "failed",
+  "productId": 107995,
+  "productName": "7-OH Tablets - The 40mg Bubble Gum Tablets - A delicious new flavor from our original supplier on sale now!!!",
+  "error": "AI parsing failed: Unexpected token '`', \"```json\n{\n\"... is not valid JSON",
+  "aiResponse": "```json\n{\n  \"id\": 107995,\n  \"weight\": \"0.2\",\n  \"shipping_class_id\": 145,\n  \"dimensions\": {\n    \"length\": \"8\",\n    \"width\": \"5\",\n    \"height\": \"1\"\n  }\n}\n```"
+}
+]

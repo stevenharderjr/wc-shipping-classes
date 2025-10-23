@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-10-23T01:41:28.149Z",
+  "status": "success",
+  "productId": 107463,
+  "productName": "80mg Wild Berry 7-OH Tablets - Our first 80mg Tablet on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  }
+},
+{
+  "timestamp": "2025-10-23T01:41:37.736Z",
+  "status": "success",
+  "productId": 107398,
+  "productName": "80mg Arctic Mint 7-OH Tablets - Our first 80mg Tablet on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  }
+},
+{
+  "timestamp": "2025-10-23T01:41:48.356Z",
+  "status": "success",
+  "productId": 107386,
+  "productName": "Cherry Pseudoindoxyl 20mg Tablets - A Kratom Distro Exclusive on sale now!!! (Compare to Press'd Red or Hydroxie)",
+  "before": {
+    "shipping_class": "",
+    "weight": "35",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 148,
+    "weight": "35",
+    "dimensions": {
+      "length": "18",
+      "width": "12",
+      "height": "10"
+    }
+  }
+},
+{
+  "timestamp": "2025-10-23T01:41:58.039Z",
+  "status": "success",
+  "productId": 107254,
+  "productName": "7-OH Tablets 20mg 100ct pack on sale now!!!  Assorted flavors!",
+  "before": {
+    "shipping_class": "",
+    "weight": "2",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    }
+  },
+  "after": {
+    "shipping_class_id": 147,
+    "weight": "2",
+    "dimensions": {
+      "length": "14",
+      "width": "10",
+      "height": "6"
+    }
+  }
+},
