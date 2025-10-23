@@ -1,0 +1,75 @@
+{
+  "timestamp": "2025-10-23T03:29:51.759Z",
+  "status": "success",
+  "productId": 108482,
+  "productName": "90% 7-OH pure no MIT!!! 7-OH Extract Powder - Mac n Cheese V.11",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.76",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "after": {
+    "shipping_class_id": 146,
+    "weight": "1.76",
+    "dimensions": {
+      "length": "8",
+      "width": "6",
+      "height": "3"
+    }
+  },
+  "rationale": "Extracted from description: 1 gram of 7-OH extract powder. Converted 1g to 0.035 oz, but using existing weight of 1.76 oz (50g) as minimum. Weight 1.76 oz qualifies for Medium Box shipping class. Powder products require boxes for protection."
+},
+{
+  "timestamp": "2025-10-23T03:30:01.429Z",
+  "status": "success",
+  "productId": 108059,
+  "productName": "60mg Blueberry 7-OH Tablets - Our first 60mg Tablet on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.76",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "1.76",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Product is 60mg 7-OH tablets with quantity options up to 30 tablets. Total tablet weight is minimal (30 tablets × 60mg = 1.8g = 0.06 oz), but using existing weight of 1.76 oz (50g) which is under 8 oz threshold. Tablets under 8 oz qualify for Small Envelope shipping class."
+},
+{
+  "timestamp": "2025-10-23T03:30:10.932Z",
+  "status": "success",
+  "productId": 107995,
+  "productName": "7-OH Tablets - The 40mg Bubble Gum Tablets - A delicious new flavor from our original supplier on sale now!!!",
+  "before": {
+    "shipping_class": "",
+    "weight": "1.76",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "after": {
+    "shipping_class_id": 145,
+    "weight": "1.76",
+    "dimensions": {
+      "length": "6",
+      "width": "4",
+      "height": "1"
+    }
+  },
+  "rationale": "Single 40mg tablet product with no quantity specified in description, using existing weight of 1.76 oz. At 1.76 oz (< 8 oz), this qualifies for Small Envelope shipping class as tablets under 8 oz can use envelopes."
+},

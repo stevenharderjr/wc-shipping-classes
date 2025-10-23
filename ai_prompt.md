@@ -91,7 +91,7 @@ Analyze these fields in priority order:
   "weight": "3.5",
   "shipping_class_id": 145,
   "dimensions": { "length": "6", "width": "4", "height": "1" },
-  "rationale": "100-count 20mg tablets = ~2g total = ~0.07 oz, using minimum 1.76 oz (50g). Weight qualifies for Small Envelope shipping class."
+  "rationale": "100-count 20mg tablets = ~2g total = ~0.07 oz, using minimum 1 oz (28g). Weight qualifies for Small Envelope shipping class."
 }
 ```
 - **weight**: Must be in OUNCES (oz) as a string
